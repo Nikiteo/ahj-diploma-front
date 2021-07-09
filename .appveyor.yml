@@ -13,7 +13,7 @@ environment:
     secure: OZg9+VKt3YNP7o50iMe8UYIUu6xmFZtQtcYvaOm08FCzn4OlVRk8ARQXDk8RxJXU
 
 install:
-  - yarn i  # команда установки зависимостей
+  - yarn  # команда установки зависимостей
 
 build: off  # отключаем встроенную в appveyor систему сборки
 

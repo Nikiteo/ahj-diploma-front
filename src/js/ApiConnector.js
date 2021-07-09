@@ -128,7 +128,7 @@ class ApiConnector {
   }
 }
 
-const url = 'https://ahj-diploma-back.herokuapp.com/';
+const url = 'https://ahj-diplom.herokuapp.com/';
 // const url = '/api/';
 // const url = 'http://localhost:7071'
 const api = new ApiConnector(url);
